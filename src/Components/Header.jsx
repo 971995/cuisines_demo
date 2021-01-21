@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Header = () => {
     console.log(window.location.pathname);
     return(
